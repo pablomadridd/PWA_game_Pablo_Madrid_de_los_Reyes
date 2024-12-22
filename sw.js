@@ -20,7 +20,9 @@ const urlsToCache = [
   '/assets/jefe_muerto.png',
   '/assets/screenshot.png',
   '/assets/you_win.png',
-  '/manifest.json'
+  '/manifest.json',
+  '/assets/icons/icon-512x512.png',
+  '/assets/icons/icon-192x192.png'
 ];
 
 // Se ejecuta cuando el Service Worker se instala
